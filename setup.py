@@ -105,6 +105,4 @@ def setInputs():
                             'higgsType':ht,'lambda6':0,'lambda7':0,'sinB_A':b_a}
                             bas = Basis.choose_basis(dic)
                             basis.append(bas)
-
-
     return basis
